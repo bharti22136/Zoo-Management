@@ -1,0 +1,22 @@
+Admin can only enter using username Bharti123 and password 1234
+For adding any new attraction, I have taken a specific attraction ID which is used to get all information about any attraction of that given ID.
+For modifying any attraction you can enter the name of the attraction to be modified and then change all the parameters that you want.
+If you want to remove any attraction then just enter its ID.
+In adding attraction only its name , attraction ID and description is asked.
+To add other details like Attraction cost,its opening and closing timings enter 3 which comes under schedule events.
+If the admin adds any attraction and forgets to add its cost then the attraction becomes free of cost by default for all visitors.
+You can enter the age criteria , category, percentage of discount  by entering 4 under set discounts.
+For offers, you have to enter the age in which the discount will be applied to visitors less than that age.
+Special deals like on buying 2 coupons give 15%off, on buying 3 coupons it gives 30% off.(It was mentioned in Google classroom comments that for now just deal with these 2 special discounts)
+In visitor’s statistics you can see total registered visitors, Total profit, most attractive place which visitors visited the most.
+Then by entering 7 you can view feedback ,if any, given by any visitors.
+To enter as a visitor you first need to be registered.
+Getting the list of attractions and animals is completely free but to buy any ticket or see any attraction you have to either have a basic or premium membership.
+All attractions are free for Premium members.
+For basic members they need to purchase tickets and on purchase of more than  1 ticket they get special offers also.
+The visitors might also get some offers if they lie in a category set up by admins , if the admin has added any offers initially.
+Initially 6 animals, 2 animals of each type, are added in the zoo.
+While deleting an animal you have to at least keep 2 animals of each category. If you try to delete any animal with count less than 2 , then it will show a warning.
+In adding special deals, the 1st ticket will be bought at its initial price and for the 2nd ticket 15% discount will be applied(Only on 2nd ticket)
+For adding any new animal, its class can only be changed/edited if “Mammal”,”Reptile”,”Amphibian” is written.
+
